@@ -1,0 +1,27 @@
+{
+  "name": "storybrand",
+  "version": "0.0.1",
+  "description": "SDK for the StoryBrand API",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apis-dev/storybrand.git"
+  },
+  "keywords": [
+    "marketing",
+    "api",
+    "sdk",
+    "storybrand",
+    "story",
+    "branding"
+  ],
+  "author": "team@apis.dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apis-dev/storybrand/issues"
+  },
+  "homepage": "https://github.com/apis-dev/storybrand#readme"
+}
